@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+}
+
+.logo{
+    width: 150px;
+}
+
+h2{
+    color: rgb(62, 42, 42);
+    font-size: 25px;
+    text-align: center;
+}
+.block1{
+    background-color: #c4beaf;
+    border: 3px solid;
+    border-style: double;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.changeStyle{
+    font-size: small;
+    text-align: left;
+    width: 10px;
+    
+}
+.changeColor{
+    color: rgb(100, 90, 75);
+    text-align: center;
+    width: 1000px;
+    font-size: 20px;
+    width: 500px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+h3{
+    font-size: 25px;
+    color: rgb(62, 42, 42);
+    text-align: center;
+}
+    
+.block2{
+    background-color: rgb(186, 162, 134);
+    border: 3px solid;
+    border-style: double;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.changeColor1{
+    color: rgb(59, 41, 24);
+    text-align: center;
+    width: 1000px;
+    font-size: 20px;
+    width: 500px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h4{
+    font-size: 25px;
+    color: rgb(62, 42, 42);
+    text-align: center;
+}
+
+.block3{
+    background-color: #bfada2;
+    border: 3px solid;
+    border-style: double;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.changeColor2{
+    color: #5f4338;
+    text-align: center;
+    width: 1000px;
+    font-size: 20px;
+    width: 500px;
+    font-weight: bold;
+    font-style: italic;
+}
+.block4{
+    border: 3px solid;
+    border-style: double;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.changeSize{
+    width: 20px;
+}
